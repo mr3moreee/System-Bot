@@ -16,9 +16,9 @@ client.on('ready', () => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`star Bot- Script By : n3k4a `);
+      console.log(`star Bot- Script By : 3moreee `);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers ' Script By : n3k4a  Codes ' `);
+      console.log(`ON ${client.guilds.size} Servers ' Script By : 3moreee  Codes ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`#help-js | #help2 | #تقديم `,"http://twitch.tv/S-F")
